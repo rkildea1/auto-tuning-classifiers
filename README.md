@@ -1,5 +1,5 @@
 # Fine tuning an SVM algorithm
-Goal: fine the optimum param's for my SVM algorithm 
+Goal: find the optimum param's for my SVM algorithm 
 Code funtion: Loop through predefined hyperparameters and fit the estimator (model) on the training set
 Note: You can swap out the SVM code and param's for other algorithms pretty easy here guys.. 
 
