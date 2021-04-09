@@ -1,11 +1,9 @@
-# parameter-selector-SVM-
-Using scikit-learn, Loop through predefined hyperparameters and fit the estimator (model) on the training set
+# Fine tuning an SVM algorithm
+Goal: fine the optimum param's for my SVM algorithm 
+Code funtion: Loop through predefined hyperparameters and fit the estimator (model) on the training set
+Note: You can swap out the SVM code and param's for other algorithms pretty easy here guys.. 
 
+Depending on the Algoirthm and the params you test, it should print the below:
 
-Essentially I want it to print something like
+![image](https://user-images.githubusercontent.com/31891933/114147476-a4e61280-9910-11eb-962e-ad907a07f5ba.png)
 
-best_score_
-0.9536352725474784 #(for example)
-
-best_params_
-{'C': 1, 'kernel': 'linear'}
